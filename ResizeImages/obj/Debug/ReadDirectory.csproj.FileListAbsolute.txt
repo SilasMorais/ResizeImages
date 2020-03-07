@@ -1,0 +1,5 @@
+C:\Users\sylla\source\repos\ReadDirectory\ReadDirectory\bin\Debug\ReadDirectory.exe.config
+C:\Users\sylla\source\repos\ReadDirectory\ReadDirectory\bin\Debug\ReadDirectory.exe
+C:\Users\sylla\source\repos\ReadDirectory\ReadDirectory\bin\Debug\ReadDirectory.pdb
+C:\Users\sylla\source\repos\ReadDirectory\ReadDirectory\obj\Debug\ReadDirectory.exe
+C:\Users\sylla\source\repos\ReadDirectory\ReadDirectory\obj\Debug\ReadDirectory.pdb
